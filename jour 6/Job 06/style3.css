@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(to right, #8e2de2, #4a00e0); /* Dégradé violet-rose */
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+    text-align: center;
+}
+
+form {
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #ffffff;
+    width: 300px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.4); /* Fond légèrement noir pour contraste */
+    border-radius: 10px;
+}
+
+button {
+    background-color: #ff007f; /* Rose nébuleuse */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #ff66b2; /* Rose plus clair au survol */
+}
