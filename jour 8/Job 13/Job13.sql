@@ -1,0 +1,1 @@
+SELECT AVG(capacite) from salles;

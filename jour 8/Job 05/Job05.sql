@@ -1,0 +1,1 @@
+SELECT * from étudiants where sexe="Femme";

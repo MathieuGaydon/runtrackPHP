@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS "nombre-etudiants" from étudiants;
