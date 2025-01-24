@@ -1,1 +1,1 @@
-SELECT * from étudiants where naissance >= "2007-01-22";
+SELECT * from étudiants where TIMESTAMPDIFF(year, naissance,curdate()) >18 ;

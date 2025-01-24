@@ -1,1 +1,1 @@
-SELECT * from salles ORDER BY capacite DESC;
+    SELECT * from salles ORDER BY capacite DESC;
